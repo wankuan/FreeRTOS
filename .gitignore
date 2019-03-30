@@ -1,0 +1,16 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+
+
+# Debug files
+*.ini
+*.txt
+
+
+
+Objects
+Listings
+DebugConfig
